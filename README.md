@@ -8,7 +8,7 @@ Aspiring Developer
 
 * 🌍  I'm based in India , Kolkata
 * ✉️  You can contact me at [ankb223@gmail.com](mailto:ankb223@gmail.com)
-* 🚀  I'm currently working on [Hopsicklez](http://localhost:5000/main.html)
+* 🚀  I'm currently working on a swift app to track running/walking activites
 * 🧠  I'm learning Web Development & DSA \[c++\]
 * 🤝  I'm open to collaborating on Core development projects
 
